@@ -1,0 +1,565 @@
+{
+  "robots": [
+    {
+      "x": 1,
+      "y": 10,
+      "objects": {},
+      "model": "classic",
+      "_orientation": -1,
+      "_is_leaky": true,
+      "_prev_x": 1,
+      "_prev_y": 10,
+      "_prev_orientation": -1,
+      "_trace_history": [],
+      "_trace_style": "default",
+      "_trace_color": "seagreen",
+      "__id": 3,
+      "possible_initial_positions": [
+        [
+          10,
+          10
+        ],
+        [
+          10,
+          1
+        ],
+        [
+          1,
+          10
+        ]
+      ]
+    }
+  ],
+  "walls": {
+    "5,1": [
+      "east"
+    ],
+    "5,2": [
+      "east"
+    ],
+    "5,3": [
+      "east"
+    ],
+    "5,4": [
+      "east",
+      "north"
+    ],
+    "5,7": [
+      "east"
+    ],
+    "5,8": [
+      "east"
+    ],
+    "5,9": [
+      "east"
+    ],
+    "5,10": [
+      "east"
+    ],
+    "1,5": [
+      "north"
+    ],
+    "2,5": [
+      "north"
+    ],
+    "3,5": [
+      "north"
+    ],
+    "4,5": [
+      "north",
+      "east"
+    ],
+    "7,5": [
+      "north"
+    ],
+    "8,5": [
+      "north"
+    ],
+    "9,5": [
+      "north"
+    ],
+    "10,5": [
+      "north"
+    ],
+    "6,4": [
+      "north"
+    ],
+    "6,6": [
+      "east",
+      "north"
+    ],
+    "4,6": [
+      "east"
+    ],
+    "5,6": [
+      "north"
+    ],
+    "6,5": [
+      "east"
+    ],
+    "6,7": [
+      "east"
+    ],
+    "7,6": [
+      "north"
+    ],
+    "7,4": [
+      "east"
+    ],
+    "7,3": [
+      "north"
+    ]
+  },
+  "small_tiles": false,
+  "rows": 10,
+  "cols": 10,
+  "tiles": {
+    "1,1": [
+      "grass"
+    ],
+    "1,2": [
+      "grass"
+    ],
+    "1,3": [
+      "grass"
+    ],
+    "1,4": [
+      "grass"
+    ],
+    "1,5": [
+      "grass"
+    ],
+    "1,6": [
+      "grass"
+    ],
+    "1,7": [
+      "grass"
+    ],
+    "1,8": [
+      "pale_grass"
+    ],
+    "1,9": [
+      "grass"
+    ],
+    "1,10": [
+      "grass"
+    ],
+    "2,1": [
+      "grass"
+    ],
+    "2,2": [
+      "grass"
+    ],
+    "2,3": [
+      "grass"
+    ],
+    "2,4": [
+      "grass"
+    ],
+    "2,5": [
+      "grass"
+    ],
+    "2,6": [
+      "grass"
+    ],
+    "2,7": [
+      "grass"
+    ],
+    "2,8": [
+      "grass"
+    ],
+    "2,9": [
+      "grass"
+    ],
+    "2,10": [
+      "grass"
+    ],
+    "3,1": [
+      "grass"
+    ],
+    "3,2": [
+      "grass"
+    ],
+    "3,3": [
+      "grass"
+    ],
+    "3,4": [
+      "grass"
+    ],
+    "3,5": [
+      "grass"
+    ],
+    "3,6": [
+      "grass"
+    ],
+    "3,7": [
+      "grass"
+    ],
+    "3,8": [
+      "grass"
+    ],
+    "3,9": [
+      "grass"
+    ],
+    "3,10": [
+      "grass"
+    ],
+    "4,1": [
+      "grass"
+    ],
+    "4,2": [
+      "grass"
+    ],
+    "4,3": [
+      "grass"
+    ],
+    "4,4": [
+      "gravel"
+    ],
+    "4,5": [
+      "gravel"
+    ],
+    "4,6": [
+      "ice"
+    ],
+    "4,7": [
+      "ice"
+    ],
+    "4,8": [
+      "grass"
+    ],
+    "4,9": [
+      "grass"
+    ],
+    "4,10": [
+      "grass"
+    ],
+    "5,1": [
+      "grass"
+    ],
+    "5,2": [
+      "grass"
+    ],
+    "5,3": [
+      "grass"
+    ],
+    "5,4": [
+      "gravel"
+    ],
+    "5,5": [
+      "#c158fe"
+    ],
+    "5,6": [
+      "#e1affe"
+    ],
+    "5,7": [
+      "ice"
+    ],
+    "5,8": [
+      "grass"
+    ],
+    "5,9": [
+      "grass"
+    ],
+    "5,10": [
+      "grass"
+    ],
+    "6,1": [
+      "grass"
+    ],
+    "6,2": [
+      "grass"
+    ],
+    "6,4": [
+      "ice"
+    ],
+    "6,5": [
+      "#e1affe"
+    ],
+    "6,7": [
+      "ice"
+    ],
+    "6,8": [
+      "grass"
+    ],
+    "6,9": [
+      "grass"
+    ],
+    "6,10": [
+      "grass"
+    ],
+    "7,1": [
+      "grass"
+    ],
+    "7,2": [
+      "grass"
+    ],
+    "7,3": [
+      "grass"
+    ],
+    "7,4": [
+      "ice"
+    ],
+    "7,5": [
+      "ice"
+    ],
+    "7,6": [
+      "ice"
+    ],
+    "7,7": [
+      "pale_grass"
+    ],
+    "7,8": [
+      "grass"
+    ],
+    "7,9": [
+      "grass"
+    ],
+    "7,10": [
+      "grass"
+    ],
+    "8,1": [
+      "grass"
+    ],
+    "8,2": [
+      "grass"
+    ],
+    "8,3": [
+      "pale_grass"
+    ],
+    "8,4": [
+      "grass"
+    ],
+    "8,5": [
+      "grass"
+    ],
+    "8,6": [
+      "grass"
+    ],
+    "8,7": [
+      "grass"
+    ],
+    "8,8": [
+      "grass"
+    ],
+    "8,9": [
+      "grass"
+    ],
+    "8,10": [
+      "grass"
+    ],
+    "9,1": [
+      "grass"
+    ],
+    "9,2": [
+      "grass"
+    ],
+    "9,3": [
+      "grass"
+    ],
+    "9,4": [
+      "grass"
+    ],
+    "9,5": [
+      "grass"
+    ],
+    "9,6": [
+      "grass"
+    ],
+    "9,7": [
+      "grass"
+    ],
+    "9,8": [
+      "grass"
+    ],
+    "9,9": [
+      "grass"
+    ],
+    "9,10": [
+      "grass"
+    ],
+    "10,1": [
+      "grass"
+    ],
+    "10,2": [
+      "grass"
+    ],
+    "10,3": [
+      "grass"
+    ],
+    "10,4": [
+      "grass"
+    ],
+    "10,5": [
+      "grass"
+    ],
+    "10,6": [
+      "grass"
+    ],
+    "10,7": [
+      "grass"
+    ],
+    "10,8": [
+      "grass"
+    ],
+    "10,9": [
+      "grass"
+    ],
+    "10,10": [
+      "grass"
+    ],
+    "6,3": [
+      "grass"
+    ],
+    "6,6": [
+      "#e1affe"
+    ]
+  },
+  "goal": {
+    "objects": {
+      "6,6": {
+        "leaf": 3
+      },
+      "6,5": {
+        "star": 1
+      },
+      "5,6": {
+        "apple": 4
+      }
+    },
+    "walls": {
+      "7,7": [
+        "north",
+        "east"
+      ],
+      "5,3": [
+        "north"
+      ],
+      "4,3": [
+        "north"
+      ],
+      "3,4": [
+        "east"
+      ],
+      "3,5": [
+        "east"
+      ]
+    }
+  },
+  "obstacles": {
+    "4,7": [
+      "fence_right"
+    ],
+    "5,7": [
+      "fence_left",
+      "fence_double"
+    ],
+    "6,7": [
+      "fence_double"
+    ],
+    "7,6": [
+      "fence_vertical"
+    ],
+    "7,5": [
+      "fence_vertical"
+    ],
+    "7,4": [
+      "fence_left"
+    ],
+    "6,4": [
+      "fence_right"
+    ],
+    "4,6": [
+      "fence_vertical"
+    ]
+  },
+  "objects": {
+    "7,7": {
+      "leaf": 3
+    },
+    "8,3": {
+      "star": 1
+    },
+    "1,8": {
+      "apple": 4
+    }
+  },
+  "description": [
+    "<h1>The Big Toss</h1>",
+    "",
+    "<ul style='list-style-type: \"> \"'>",
+    "    <li>Get all the objects to their homes</li>",
+    "    <li>Rebuild some broken Walls</li>",
+    "    <li>This challenge requires you to think outside the box and use some hidden Reeborg functions</li>",
+    "    <li>Have fun and Good Luck!</li>",
+    "</ul>",
+    "",
+    "<h3>Special Functions to Help</h3>",
+    "<ul style='list-style-type: \"> \"'>",
+    "    <li>",
+    "        <code>UsedRobot()</code>, <code>position_here()</code>,",
+    "        <code>position_in_front()</code>, and <code>default_robot()</code>.",
+    "    </li>",
+    "    <li>",
+    "        Use <code>help()</code> for a better ",
+    "        understanding of what the functions are ",
+    "        and how to use them.",
+    "    </li>    ",
+    "    <li>",
+    "        Look and search through the Reeborg ",
+    "        <a href=\"http://reeborg.ca/src/python/reeborg_en.py\">Source Code</a> ",
+    "        and maybe you'll find a hidden function that ",
+    "        will help you!",
+    "    </li>",
+    "</ul>",
+    "",
+    "<h3>Help/Solution</h3>",
+    "<details>",
+    "    <summary>",
+    "        Reveal (Click Here)",
+    "    </summary>",
+    "    <ul style='list-style-type: \"> \"'>",
+    "        <li>",
+    "            Figure out which quadrant you're in with ",
+    "            <code>position_here()</code> and some ",
+    "            <code>if</code> statements.",
+    "        </li>",
+    "        <li>",
+    "            Use <code>UsedRobot(x, y)</code> to spawn more ",
+    "            robots in the different quadrants and one ",
+    "            on the purple tile in the middle.",
+    "        </li>",
+    "        <li>",
+    "            Get the robots to pickup each object and ",
+    "            toss them over the walls to get them to ",
+    "            the bottom left quadrant.",
+    "        </li>",
+    "        <li>",
+    "            Get a robot to collect all the objects in ",
+    "            the bottom left quadrant and toss them ",
+    "            into the middle.",
+    "        </li>",
+    "        <li>",
+    "            Get a robot in the middle to collect all ",
+    "            the objects tossed into the middle and ",
+    "            distribute them to their respective homes.",
+    "        </li>",
+    "        <li>",
+    "            Build the walls that need to be built.",
+    "        </li>",
+    "    </ul>",
+    "</details>",
+    "    ",
+    "DIFFICULTY9",
+    "",
+    "<h4>",
+    "    Brownie points if you use ",
+    "    <code>set_trace_color()</code>",
+    "    to spice things up",
+    "</h4>"
+  ],
+  "onload": [
+    "",
+    ""
+  ]
+}
