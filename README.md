@@ -7,5 +7,5 @@ In [Solutions](Solutions), you will find my code for each step/world
 Some of the later steps may not be optimized, but they still work
 
 # My Worlds
-I made a world called [The Big Toss](Worlds/The Big Toss.json) and it uses some advanced Reeborg functions to get to the goal
+I made a world called [The Big Toss](Worlds/The%20Big%20Toss.json) and it uses some advanced Reeborg functions to get to the goal
 Feel free to try it out and beat my challenge
